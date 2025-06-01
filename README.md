@@ -34,7 +34,18 @@ Se generan los gráficos mediante los códigos insertados la consola de la tabla
 - El segúndo, es un gráfico de barras que representa la cantidad de avistamientos por año.
 - El tercer gráfico podemos ver un mapa del mundo con la cantidad de avistamientos por estado.
 
-<img width="795" alt="Gráfico 1" src="https://github.com/user-attachments/assets/05e46a3d-7046-4f2f-b89a-2b0d1e69636e" />
+
+![WhatsApp Image 2025-06-01 at 7 04 30 PM](https://github.com/user-attachments/assets/f2539556-2234-40c4-b664-90d6b08acc79)
+
+##grafico 1 La visualización muestra un análisis realizado con BigQuery sobre avistamientos de OVNIs clasificados según la forma observada. Destaca notablemente que la mayoría de los reportes se describen como luces ("light"), constituyendo el 37.5% del total con 5,440 avistamientos. Formas más definidas como triángulos (17.8%), círculos (17.1%) y bolas de fuego (14.6%) también aparecen con frecuencia, mientras que diversas formas menos comunes se agrupan bajo "other" (13%). Esto sugiere que los testigos comúnmente reportan fenómenos luminosos difíciles de caracterizar con precisión.
+
 <img width="709" alt="Gráfico 2" src="https://github.com/user-attachments/assets/6d0a4ca3-8e42-4041-b889-23eb68a03360" />
+
+##grafico 2 La imagen muestra un análisis generado con BigQuery sobre avistamientos de OVNIs, ordenados por año (Year) y cantidad de avistamientos (Sightings). Se observa claramente que algunos años tuvieron notablemente más reportes que otros, destacando especialmente el año **1** (probablemente indicando datos faltantes o errores) con 10,163 registros, seguido por los años **3 y 91** con más de 6,000 y 5,900 avistamientos respectivamente. La distribución irregular indica posibles errores en la base de datos, anomalías en la recopilación histórica de los datos, o años específicos con picos notables de interés o sucesos que impulsaron el reporte de avistamientos.
+ 
+![WhatsApp Image 2025-06-01 at 7 12 23 PM](https://github.com/user-attachments/assets/f7d4fa5f-23d0-4c85-9647-7fe97607770b)
+
+##geafico 3 La visualización presenta la distribución geográfica y frecuencia de avistamientos OVNI en Estados Unidos y el mundo, destacando notablemente California (CA) como el estado con más reportes (3,561 avistamientos), seguido de Washington (WA, 1,555) y Florida (FL, 1,544). El mapa resalta claramente una alta concentración de avistamientos en Norteamérica, con un predominio particular en la costa oeste estadounidense. Otros lugares globales también presentan avistamientos, pero con una densidad notablemente menor. Esto indica que Estados Unidos, especialmente estados como California y Washington, es el área con mayor actividad registrada en avistamientos OVNI.
+
 
 
